@@ -10,4 +10,4 @@ const Button = ({ styles }) => {
   );
 };
 
-export default Button;
+export default Button; // Button finksiyasi export bo'lmoqda
