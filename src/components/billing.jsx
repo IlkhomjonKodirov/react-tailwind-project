@@ -22,10 +22,10 @@ const Billing = () => {
           Hisob kitob va fakturial <br className="sm:block hidden" /> osongina
           boshqaring
         </h2>
-        <p className={`${styles.paragraph} max-w-[550px] mt-5`}>
+        <p className={`${styles.paragraph} max-w-[550px] mt-5`}> 
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate
           minima dignissimos aut laudantium consectetur, fugiat saepe debitis
-          possimus fuga animi?
+          possimus fuga animimation?
         </p>
 
         <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
@@ -46,3 +46,5 @@ const Billing = () => {
 };
 
 export default Billing;
+
+// Test 
